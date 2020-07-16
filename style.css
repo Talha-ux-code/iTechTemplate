@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#course .card, .jumbotran .row .card{
+    border: none;
+}
+/* .img-fluid{
+    padding: 0;
+    margin: 0;
+} */
